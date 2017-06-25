@@ -1,0 +1,40 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #616977;
+}
+
+.game {
+	border: 1px solid black;
+	width: 40vw;
+	max-width: 500px;
+	height: 500px;
+	display: inline-block;
+}
+
+.game-title {
+	text-align: center;
+}
+
+.game img {
+	display: block;
+	width: 40vw;
+	max-width: 500px;
+}
+
+#games {
+	width: 81vw;
+	max-width: 1010px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#title {
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+	margin-top: 4vh;
+}
